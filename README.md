@@ -1,6 +1,6 @@
 # Explainability-With-Acoustic-Health-Data
 
-## A guide to this repository:
+## A Guide To This Repository:
 
 ### CoughVID Dataset
   - The original data that was used for CoughVID comes from the "virufy-cdf-coughvid.csv" file in a publically available repository (https://github.com/virufy/virufy-cdf-coughvid/tree/main).
