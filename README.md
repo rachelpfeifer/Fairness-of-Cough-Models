@@ -1,4 +1,5 @@
-# Explainability-With-Acoustic-Health-Data
+# Explainability With Acoustic Health Data
+Evaluating demographic fairness in biometric datasets
 
 ## A Guide To This Repository:
 
