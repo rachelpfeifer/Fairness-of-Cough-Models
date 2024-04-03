@@ -1,0 +1,2 @@
+Female False Negative Rate Before,Male False Negative Rate Before,Female False Negative Rate After,Male False Negative Rate After,Equalized Odds Ratio Gender Before,Equalized Odds Ratio Gender After,Equalized Odds Difference Gender Before,Equalized Odds Difference Gender After
+0.13558558558558562,0.15353037766830868,0.13355855855855855,0.13152709359605913,0.8413824815648958,0.9101166218410912,0.026631426395168998,0.021164434190151977
