@@ -1,5 +1,5 @@
-# Explainability With Acoustic Health Data
-Evaluating demographic fairness in biometric datasets. Implementing machine learning models to predict PCR test results, and then reducing bias through mitigation algorithms.
+# Fairness of Cough Models
+Evaluating demographic fairness in biometric datasets. Implementing machine learning models to predict COVID-19 test results, and then reducing bias through mitigation algorithms.
 
 ## A Guide To This Repository:
 Two datasets, Coswara and CoughVID, were analyzed. Each dataset is in its respective folder given by the name of the dataset (Coswara and CoughVID). For each dataset, there are sub-folders for the analysis, figures, and results.
